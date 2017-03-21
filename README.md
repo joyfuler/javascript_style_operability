@@ -1,4 +1,4 @@
-#可维护的Javascript开发风格规范
+# 可维护的Javascript开发风格规范
 
 
 ## 分号：
