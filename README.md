@@ -5,13 +5,13 @@
 
 #### 规范
 以下几种情况后需加分号：
-•	变量声明
-•	表达式
-•	return
-•	throw
-•	break
-•	continue
-•	do-while
+* 变量声明
+* 表达式
+* return
+* throw
+* break
+* continue
+* do-while
 
 #### 示例
 
