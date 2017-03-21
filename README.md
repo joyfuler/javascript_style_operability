@@ -14,7 +14,7 @@
 * do-while
 
 #### 示例
-
+、
 /* var declaration */
 var x = 1;
 
@@ -25,7 +25,7 @@ x++;
 do {
     x++;
 } while (x < 10);
-
+、
 
 ## 空格
 #### 规范
